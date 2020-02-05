@@ -8,7 +8,7 @@ def name
   @name
 end
 
-class dog
+class Dog
   def bark
     puts " Woof"
   end
