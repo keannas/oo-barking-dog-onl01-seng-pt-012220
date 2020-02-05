@@ -4,5 +4,6 @@ class Dog
   end
 end
 
-
+def name
+  
   
